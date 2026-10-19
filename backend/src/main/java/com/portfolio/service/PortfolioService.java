@@ -38,11 +38,11 @@ public class PortfolioService {
                         "https://github.com/manojselvang/docker-build-comparison"
                 ),
                 new Project(
-                        "Docker Security Lab",
-                        "CONTAINER SECURITY",
-                        "Explored hardened container images, multi-stage builds and vulnerability scanning with Trivy.",
-                        List.of("Docker", "Trivy", "Security"),
-                        "https://github.com/manojselvang/docker-security-lab"
+                        "DevOps Portfolio CI/CD",
+                        "CI/CD / CLOUD-NATIVE",
+                        "A full-stack React and Spring Boot portfolio delivered through Jenkins, Docker Hub and Kubernetes on AWS EC2.",
+                        List.of("React", "Java", "Maven", "Jenkins", "Docker", "Kubernetes"),
+                        "https://github.com/manojselvang/manoj-devops-portfolio-cicd"
                 ),
                 new Project(
                         "AI-Assisted Patch Prioritization",
