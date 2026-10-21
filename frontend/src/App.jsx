@@ -18,7 +18,7 @@ const fallbackProfile = {
 }
 
 const fallbackProjects = [
-  { title: 'DevOps Portfolio CI/CD', category: 'CI/CD / CLOUD-NATIVE', description: 'A full-stack React and Spring Boot portfolio delivered through Jenkins, Docker Hub and Kubernetes on AWS EC2.', technologies: ['React', 'Java', 'Maven', 'Jenkins', 'Docker', 'Kubernetes'], githubUrl: 'https://github.com/manojselvang/manoj-devops-portfolio-cicd' },
+  { title: 'DevOps Personal Portfolio CI/CD', category: 'CI/CD / CLOUD-NATIVE', description: 'A full-stack React and Spring Boot portfolio delivered through Jenkins, Docker Hub and Kubernetes on AWS EC2.', technologies: ['React', 'Java', 'Maven', 'Jenkins', 'Docker', 'Kubernetes'], githubUrl: 'https://github.com/manojselvang/manoj-devops-portfolio-cicd' },
   { title: 'Kubernetes HPA on AWS EKS', category: 'KUBERNETES / AWS', description: 'Implemented CPU-based horizontal autoscaling and validated scale-out and scale-in behavior under load.', technologies: ['Kubernetes', 'AWS EKS', 'Metrics Server'], githubUrl: 'https://github.com/manojselvang/k8s-hpa-eks-project' },
   { title: 'Docker Image Build Comparison', category: 'DOCKER / OPTIMIZATION', description: 'Compared single-stage and multi-stage builds, reducing a sample image from 1.31 GB to 24.3 MB.', technologies: ['Docker', 'Go', 'Multi-stage builds'], githubUrl: 'https://github.com/manojselvang/docker-build-comparison' },
   { title: 'AI-Assisted Patch Prioritization', category: 'SECURITY AUTOMATION', description: 'Rule-based vulnerability prioritization using asset criticality, exposure and environment context.', technologies: ['Python', 'Risk scoring', 'Automation'], githubUrl: 'https://github.com/manojselvang/patch-prioritization-engine' }
