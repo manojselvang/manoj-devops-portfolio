@@ -10,7 +10,7 @@ import { getHealth, getProjects, getProfile, getSkills, getVersion } from './ser
 const fallbackProfile = {
   name: 'Manoj Selvan G',
   title: 'DevOps & Cloud Engineer',
-  location: 'Chennai, India',
+  location: 'Chennai, India (testing)',
   summary: 'I work at the intersection of infrastructure, security and automation—building practical skills in cloud-native platforms and reliable delivery workflows.',
   github: 'https://github.com/manojselvang',
   linkedin: 'https://www.linkedin.com/in/manojselvang',
